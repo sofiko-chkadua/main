@@ -1,0 +1,26 @@
+/* .footerbg {
+    background: url(../../img/patt.png) no-repeat bottom 115px left 50%
+}
+
+@media screen and (max-width: 1194px) {
+    .footerbg {
+        background: url(../../img/patt.png) no-repeat bottom 116px left 50%;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .footerbg {
+        background: url(../../img/patt.png) no-repeat bottom 116px left 50%;
+    }
+}
+
+@media screen and (max-width: 978px) {
+    .footerbg {
+        background: url(../../img/patt.png) no-repeat bottom 115px left 50%;
+    }
+}
+@media screen and (max-width: 689px) {
+    .footerbg {
+        background: transparent;
+    }
+} */
